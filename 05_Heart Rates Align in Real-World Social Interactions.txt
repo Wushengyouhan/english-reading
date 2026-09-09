@@ -1,0 +1,23 @@
+Have you ever felt completely in tune with someone — as if the two of you were on the same wavelength? That feeling may not exist only in your imagination. A new study suggests that when people share a place and an experience, their heart rates can begin to rise and fall in similar patterns.
+
+Scientists call this phenomenon "interpersonal physiological synchrony." It does not mean that two hearts suddenly beat at exactly the same speed. Instead, their slower changes over time become more alike. If one person's heart rate rises and then falls, for example, the other person's may follow a similar pattern.
+
+Most earlier studies of this phenomenon took place in laboratories or during highly emotional events. Researchers therefore wanted to know whether the same thing happens during ordinary social life.
+
+They studied 72 students over three separate four-day trips to New York City. The students wore Garmin wristbands that measured their heart rates. Smartphones recorded their locations, while small hearing-aid microphones measured features of the surrounding sound environment.
+
+The researchers divided the heart-rate data into five-minute periods and compared the patterns of different participants. They treated two people as physically close when they were within 20 meters of each other.
+
+Across all three trips, heart-rate synchrony was higher when people were close together than when their data came from different times. In two of the three trips, it was also higher when people were within 20 meters of each other than when they were more than one kilometer apart.
+
+But distance was only part of the story. People who had known each other before the trip showed greater synchrony than unfamiliar pairs, even after the researchers accounted for physical distance. Familiarity, it seems, may make people more likely to attend and respond to the world in similar ways.
+
+The type of activity mattered too. Synchrony appeared during face-to-face group activities and when participants focused on the same thing, such as a lecture or performance. It was weaker during more scattered situations — for example, when a group occupied the same restaurant but sat at different tables and had fewer shared interactions.
+
+The sound environment also made a difference. Moderate sound levels and clearer listening conditions were associated with greater synchrony. Excessive noise, by contrast, was linked to synchrony levels similar to those found when people were not actively interacting. One possible explanation is that struggling to hear leaves fewer mental resources for following other people and sharing their attention.
+
+However, synchronized heart rates should not be treated as a magical friendship detector. People in the same place often see and hear the same things, and those shared experiences can produce similar bodily responses. The study found associations; it did not prove that emotional closeness directly makes one person's heart control another's.
+
+Even so, the findings show that heart-rate synchrony is not limited to carefully controlled experiments. With wearable devices, it may offer researchers a useful way to study shared attention and social engagement as they naturally unfold.
+
+Sometimes, being "on the same wavelength" may be more than a figure of speech.
