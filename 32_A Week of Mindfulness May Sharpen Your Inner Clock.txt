@@ -1,0 +1,21 @@
+Remembering to call someone at exactly 5 p.m. is different from remembering after an alarm rings. Without an outside signal, you must keep the plan in mind, judge how much time has passed and act at the right moment. Psychologists call this ability time-based prospective memory.
+
+A study published in Consciousness and Cognition suggests that one week of mindfulness meditation may improve this kind of memory, especially when people cannot check a clock whenever they want.
+
+Time-based prospective memory is demanding because it combines two jobs. A person must remember what they intend to do and monitor when to do it. Both jobs compete for attention with whatever else the person is doing. Mindfulness meditation, which often involves returning attention to the breath, may help people manage that competition.
+
+Researchers Mingyuan Wang and Yunfei Guo recruited 95 undergraduate volunteers. Some completed a guided breathing meditation each day for one week, while a control group spent the same period on unrelated activities. The researchers then gave everyone a computer test that combined an attention task with a timed intention.
+
+Participants watched a rapid series of letters and pressed a key whenever a letter matched the one immediately before it. At the same time, they had to remember to press another key once every minute. A response counted as correct if it fell within three seconds of the target time.
+
+The experiment also changed how easily participants could monitor time. Some could check an on-screen clock as often as they wished. Others were allowed to check it only once during each trial.
+
+Meditation made a difference only when clock checking was restricted. In that condition, the meditation group responded at the correct time in about 52% of trials, compared with 28% for the control group. When participants could check the clock freely, both groups scored about 75%, and the difference disappeared.
+
+The timing of the single clock check offered another clue. Early in each minute, the two groups behaved similarly. Near the deadline, however, participants in the meditation group were more likely to use their one available check. This pattern suggests that they estimated the passing time more effectively and saved the clock for the moment when it was most useful.
+
+Their improvement on the timed task did not reduce their accuracy on the letter-matching task. That means the better prospective-memory performance was not accompanied by an obvious loss on the activity competing for their attention. However, it does not by itself prove that meditation expanded the brain's total supply of attention.
+
+The results also have clear limits. All 95 participants were university students, and the intention had to be remembered for only 60 seconds. Remembering a single key press in a laboratory is much simpler than remembering an appointment hours later or completing a plan with several steps. The study also does not show how long the benefit lasts after the week of practice ends.
+
+Even so, the findings reveal an interesting link between attention to the present and memory for the future. Mindfulness did not help when a clock made time monitoring easy. Its advantage appeared when participants had to depend more heavily on their own attention, suggesting that present-moment practice may be most useful when external reminders are limited.
