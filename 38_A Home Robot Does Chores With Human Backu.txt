@@ -1,0 +1,21 @@
+US-based Weave Robotics has unveiled Isaac 1, a wheeled mobile home robot designed to automate everyday household chores such as tidying rooms and doing laundry. The robot can make beds, sort clutter, fold clothes, and put items away while operating autonomously in most situations. When it encounters tasks it cannot complete independently, remote human assistance steps in to ensure the job is finished.
+
+In February 2026, the San Francisco startup launched Isaac 0, a stationary autonomous robot that folds laundry in 30-90 minutes, ahead of its more capable Isaac 1 successor.
+
+Smart home helper
+
+Isaac 1 is a mobile household robot designed to automate common domestic chores, expanding well beyond the laundry-folding capabilities of the company's earlier Isaac 0 platform. The new robot combines autonomous navigation, mobile manipulation, and remote assistance to perform a range of household tasks, including folding clothes, making beds, organizing clutter, straightening cushions, and putting items away.
+
+Unlike its predecessor, which remained stationary at a table to fold laundry, Isaac 1 features a motorized wheeled base that allows it to move throughout a home. The robot is equipped with a telescopic body that adjusts its height from about 3 feet (0.9 m) to 5 feet 9 inches (1.75 m), enabling it to reach furniture, beds, shelves, and laundry baskets while maintaining a compact profile when idle, reports New Atlas.
+
+Its upper body houses two robotic arms designed for household manipulation tasks. The system uses multiple onboard cameras and AI-powered perception to identify objects, understand room layouts, and determine where misplaced items belong. According to Weave Robotics, Isaac 1 is intended to complete everyday tidying tasks with minimal user input, autonomously navigating between rooms while handling clothing and common household objects.
+
+Autonomous operation
+
+The robot operates autonomously by default but can transition to remote human teleoperation whenever it encounters situations beyond its current capabilities. According to Weave Robotics, through the hybrid autonomy model, a remote operator can temporarily guide the robot using its onboard camera feeds to complete difficult tasks before returning control to the autonomous system. Weave says this approach ensures tasks are completed reliably while allowing the robot to tackle a wider variety of real-world household environments.
+
+To address privacy concerns, the company says Isaac 1 includes hardware controls that physically disable its cameras when they are not required for operation. The robot also features a redesigned appearance, with a rounded head, expressive digital eyes, and fabric-covered body panels intended to make it better suited to home environments, reports New Atlas.
+
+Weave Robotics plans to continue expanding Isaac 1's capabilities through over-the-air firmware updates, allowing the robot to perform additional household tasks as its AI models improve.
+
+Isaac 1 reflects a growing trend toward mobile domestic robots that combine embodied AI, computer vision, and remote human assistance to bridge the gap between today's autonomous systems and fully self-sufficient home robotics.
