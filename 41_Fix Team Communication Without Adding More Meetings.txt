@@ -1,0 +1,55 @@
+Most teams respond to communication problems by adding more meetings: another weekly check-in to keep everyone aligned; another "quick sync" because the email thread got messy.
+
+The meeting load grows. The communication problem stays.
+
+That is because what looks like a communication problem is usually something deeper. It shows up as surprises that should not have been surprises, confusion about who owns what, and uncertainty that everyone feels but nobody names.
+
+In other words, the issue is not that teams are failing to talk. It is that they lack shared habits for how information moves, how decisions get made, and what people say when the picture is still incomplete.
+
+Here are five ways to fix team communication without filling the calendar even further.
+
+1. Share your work before it's finished
+
+Most communication breakdowns are really visibility breakdowns.
+
+Teams often share work too late. By the time anyone sees what is happening, the key choices are already locked in. That is when people start asking for extra meetings, not because they love meetings, but because they are trying to get access to the thinking after the fact.
+
+Instead of briefing people on decisions already made, create visibility into drafts, open questions, and early thinking while there is still time to shape the outcome.
+
+I worked with a team that moved project documents into a shared digital space. Status-check conversations dropped. Junior team members started getting substantive feedback earlier. What changed was not the amount of communication. It was the timing of it.
+
+2. Give the back-channel conversation somewhere to go
+
+Most teams run two conversations in parallel: the official one in the room and the honest one in side texts, hallway conversations, and one-on-one cleanup afterward. That is where people say what they actually think. It is also where teams lose enormous amounts of time.
+
+The answer is not to add another meeting. It is to replace superficial discussion with a structured moment for the real conversation. Ask three questions: What's working? Where are we getting stuck? What should we do differently next time? The point is to say, in one shared setting, what would otherwise get spread across five private conversations.
+
+My own team uses retrospectives after difficult client moments and any stretch where the back channel starts getting louder than the official channel. Patterns that would have been whispered in one-on-ones get named in the room instead. And when that happens, the cleanup communication starts to shrink.
+
+3. Say what you know, what you don't, and what you're doing next
+
+Leaders often wait for certainty before they communicate. The result is not calm. It is rumor, anxiety, and a flood of side conversations trying to fill the vacuum.
+
+The better approach is candid communication: say what you know, what you do not yet know, and what happens next. That gives people orientation without pretending certainty that does not exist.
+
+I have seen leaders withhold difficult information because they thought they were protecting their teams. When the news finally landed, people did not feel protected. They felt blindsided.
+
+4. Get clear about decision rights
+
+A surprising amount of team communication is really decision confusion in disguise.
+
+When nobody knows who gets to decide, teams start compensating with volume. More people get invited to weigh in. More meetings get scheduled to "align."
+
+A better move is to get explicit about three roles: who decides, who advises, and who simply needs visibility once the call is made. When teams blur them together, they create false consensus-seeking: long discussions designed less to improve the decision than to make sure nobody feels left out of it.
+
+I have seen teams dramatically reduce communication drag once they clarified decision rights. Decisions stopped ricocheting through chat, email, and one-on-one follow-ups.
+
+5. Build a reliable rhythm
+
+When everything feels urgent, teams start communicating in emergencies. Calendars fill up not because the team has a rhythm, but because it has none.
+
+A reliable cadence breaks that pattern. People know when priorities will get set, when real work will move, and when emerging issues will have a place to land.
+
+I worked with a senior leader who resisted this immediately. "I don't need more meetings," she told us. But once her team settled into a rhythm, with one meeting to lock priorities and other sessions reserved for actual work, something shifted. She started dropping ideas into a team channel at all hours, trusting they would be picked up in the next structured moment. The cadence had not added more meetings. It had reduced them.
+
+Better team communication rarely comes from talking more. It comes from building cleaner agreements about how work becomes visible, how decisions move, and how uncertainty gets named.
