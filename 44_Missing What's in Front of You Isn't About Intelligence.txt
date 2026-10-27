@@ -1,0 +1,21 @@
+People's intelligence and personality traits do little to predict whether they will notice an unexpected object while concentrating on another task, according to a study published in Royal Society Open Science. The findings suggest that inattentional blindness may depend more on the demands and design of a situation than on stable differences between individuals.
+
+Inattentional blindness occurs when people fail to see something that is clearly visible because their attention is directed elsewhere. A person counting ball passes in a video, for example, may miss an unusual figure moving through the scene. The failure does not necessarily mean the person has poor eyesight or low intelligence. Instead, attention is limited, and the brain prioritizes information relevant to the task at hand.
+
+Previous research has examined whether some people are consistently better at noticing unexpected events. Possible predictors have included intelligence, working memory (the ability to hold and manipulate information over short periods) and personality traits such as openness or absorption, a tendency to become deeply immersed in sensory and imaginative experiences. Earlier studies, however, often involved small numbers of participants and produced inconsistent results.
+
+The research was designed to provide a stronger test. Led by Daniel J. Simons of the University of Illinois at Urbana-Champaign, the researchers ran two large online studies. One examined cognitive ability in 1,000 participants. The second examined personality, also in 1,000 participants.
+
+Participants completed three inattentional blindness tasks. In one, they judged the length of lines while an unexpected shape briefly appeared. In another, they counted the movements of shapes while an unexpected object traveled through the display. In the third, they searched for a target number among symbols while another object appeared in the scene.
+
+Participants in the cognitive ability study completed tests of visual reasoning and working memory. Those in the personality study completed measures of the Big Five personality traits (extraversion, agreeableness, conscientiousness, neuroticism and open-mindedness), along with absorption, attention-related symptoms and perfectionism-related characteristics.
+
+The share of people who noticed the unexpected object varied between 39% and 66%, depending on the task. In the counting task, about 45% of participants noticed the unexpected object in both the easier and more difficult conditions. This did not reproduce the common finding that a harder main task reduces noticing.
+
+People who noticed an unexpected object in one task were slightly more likely to notice one in another task. The relationship was weak, though, suggesting a small tendency for some people to notice more often, without indicating a strong, stable "noticer" personality.
+
+Some cognitive measures were associated with noticing in particular conditions. Higher scores on certain reasoning and working memory tests, for example, were linked with slightly greater noticing in the easier condition. But these relationships were small and inconsistent. A measure that predicted more noticing in one condition sometimes predicted less noticing in another.
+
+Personality produced even less evidence of a reliable relationship. None of the personality measures consistently predicted noticing. When the researchers combined the full set of cognitive or personality measures, the models explained very little of the differences between participants.
+
+The authors concluded: "Collectively, we found evidence that individual differences in some cognitive abilities weakly and inconsistently predicted noticing, but little or no evidence that individual differences in personality predicted noticing." Missing something in plain sight, then, says little about how smart someone is, or what kind of person they are. The more useful clue is the work already in front of them: what they were asked to watch, and how that job was set up.
