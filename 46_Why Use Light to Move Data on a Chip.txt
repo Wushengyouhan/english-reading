@@ -1,0 +1,19 @@
+For decades, electronic chips have powered almost every digital device around us. But as more data moves through computers, researchers and chipmakers are looking at another way to move information: light.
+
+That is where photonic chips come in. Instead of relying mainly on electrical signals, they use photons, particles of light, and tiny optical parts to handle it. The two are not necessarily rivals. Researchers are increasingly trying to combine them in the same systems.
+
+Electronic chips are built around transistors. Silicon is widely used because its electrical properties can be tightly controlled, so manufacturers can pack billions of tiny switches onto one chip. Those switches turn signals on and off to calculate, store information and control other hardware. This remains the foundation of modern computing.
+
+The problem is that moving huge amounts of information with electricity can use a lot of power and create heat. That matters in data centers, where processors must constantly exchange data. Engineers are therefore exploring light as another way to move it.
+
+Photonic chips, also called photonic integrated circuits, use light for some or all of their jobs. They can include lasers, waveguides, modulators and detectors. Waveguides guide light around the chip. Modulators can encode information onto the light.
+
+These chips do not necessarily get rid of electronics. Many systems still need electronic circuits to control the optical parts and to convert signals from electrical to optical and back. Silicon photonics, which puts optical parts on silicon, is one way to join the two.
+
+The biggest advantage of photonics is moving data. Light can carry enormous amounts of information, and optical links can offer high bandwidth over relatively long distances. That makes photonics attractive for connecting processors, memory and networking gear in data centers. For some high-speed links, photonic systems can also use less energy.
+
+Why not make everything photonic? Electronics are still exceptionally good at many kinds of calculation. Photonic circuits have their own difficulties too. Making, detecting and controlling light needs specialized parts, and putting lasers on silicon is hard because silicon is not an efficient source of light.
+
+Photonics also does not automatically make every calculation faster. Its biggest advantage today is often in moving information, not in replacing the transistor.
+
+The likelier future is a closer partnership. Electronic circuits can handle dense logic and computation. Photonic parts can move huge amounts of information between different pieces of a system. The most powerful systems may use both.
