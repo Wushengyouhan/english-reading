@@ -1,0 +1,25 @@
+Crows are famously intelligent animals; they use tools and remember people's faces. Past research hints they can even count to four and understand basic geometry.
+
+Now, a new study suggests the jet-black birds can make decisions based on visual information incredibly fast, possibly at twice the speed of humans. The findings, described in the journal Science on October 22, can provide insights into crows' evolutionary history.
+
+Crow brains certainly move "in the fast lane," study co-author Andreas Nieder, an animal physiologist at the University of Tübingen in Germany, tells the Transmitter's Sarah Thau.
+
+In the study, Nieder and Philipp Schmidbauer, a neuroscientist also at the University of Tübingen, worked with two carrion crows named Iggy and Lemmy. Each would sit in front of a touchscreen showing a cluster of dots in the center. Some dots started moving in one direction (either left or right) while the others shifted randomly as distractors. When the movement began, the birds tapped the left or right side of the screen as fast as possible to indicate which way the associated dots were traveling. Getting the answer right earned them a tasty treat: a mealworm, Pien Huang reports for NPR's "All Things Considered."
+
+The birds performed the task thousands of times. In some trials, nearly all the dots moved in concert. Other times, just a tiny fraction did, making it tough for the birds to choose the correct side.
+
+The crows took an average of 235 milliseconds to indicate their correct decision, which is about a fifth of a second. That's roughly twice as fast as monkeys and humans can do similar tasks without sacrificing accuracy, according to past research.
+
+What's more, "even when the patterns of motion were hard to recognize, the crows' decisions were still better than random choices," Schmidbauer says in a statement. "And with clear signals, they achieved an accuracy of nearly 100 percent."
+
+As the crows made their lightning-speed decisions, Nieder and Schmidbauer also recorded activity in the animals' brains. They specifically monitored nerve cell, or neuronal, activity in the nidopallium caudolaterale, a region similar to the primate prefrontal cortex, which is important for higher-order thinking and decision-making.
+
+The team found that neurons in the birds' brain area were firing signals as soon as 70 milliseconds after the crows viewed the visual stimulus. Neuronal activity increased as a crow's decision took shape, until reaching a "decision threshold," after which the animal tapped the screen to indicate its choice. Past research suggests that primates' brains follow the same pattern, hinting that the two distinct types of animals rely on a similar neuronal process.
+
+"The bigger implication is that a brain does not need a mammalian neocortex to perform sophisticated computations," Nieder tells Live Science's Kenna Hughes-Castleberry.
+
+Neuroscientist Mike Colombo, of the University of Otago in New Zealand, agrees. "It's not about the architecture; it's the circuitry that matters," says Colombo, who wasn't involved in the study, to NPR.
+
+So why is the same neuronal circuitry making crows faster? It might have something to do with the demands of a bird's lifestyle. Their vision is essential for the navigational complexities of flight, rapid beak movement and predator detection, for example. In other words, avians may have been forced to evolve rapid visual processing and motor responses.
+
+Still, researchers don't know how widespread this speedy trait might be among birds, says Aaron Blaisdell, a neuroscientist at the University of California, Los Angeles who also did not participate in the study, to the Transmitter. Is it "something that's avian versus mammal, or is it something about crows specifically?"
