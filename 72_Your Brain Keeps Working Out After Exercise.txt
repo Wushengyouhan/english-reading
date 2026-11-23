@@ -1,0 +1,24 @@
+Exercise is widely known for building stronger muscles, but new research in mice suggests it also reshapes the brain in ways that may improve endurance. A study published in the Cell Press journal Neuron found that repeated exercise changes brain activity linked to the body's ability to run farther and faster over time. These changes appear to help the heart and muscles adapt and become stronger with training.
+
+"A lot of people say they feel sharper and their minds are clearer after exercise," says corresponding author J. Nicholas Betley of the University of Pennsylvania. "So we wanted to understand what happens in the brain after exercise and how those changes influence the effects of exercise."
+
+During experiments, Betley and his team observed increased brain activity in mice after treadmill running. The strongest changes appeared in nerve cells within a region called the ventromedial hypothalamus (VMH), which helps regulate how the body manages energy, body weight, and blood sugar.
+
+The researchers tracked activity in a specific set of VMH nerve cells known as steroidogenic factor-1 (SF1) neurons. These neurons became active while the mice were running and continued firing for at least an hour after exercise ended.
+
+After two weeks of daily treadmill sessions, the mice showed clear endurance improvements. They could run longer distances and maintain faster speeds before reaching exhaustion. Brain scans also revealed that a greater number of SF1 neurons became active after training, and their activity levels were much higher than they had been at the start of the study.
+
+The scientists then tested what would happen if they blocked the SF1 neurons from communicating with the rest of the brain. Mice with blocked neuron activity became fatigued much sooner and failed to gain endurance during the two-week training period.
+
+The researchers were especially surprised to find that blocking these neurons only after exercise was enough to stop endurance improvements, even though the neurons still worked normally during the workout itself. This finding suggests that brain activity after exercise may play a critical role in helping the body adapt to training.
+
+"When we lift weights, we think we are just building muscle," says Betley. "It turns out we might be building up our brain when we exercise."
+
+The exact biological process behind the effect is still unknown. However, Betley believes the continued activity of SF1 neurons after exercise may help the body recover more efficiently by improving how stored glucose is used. That could allow muscles, lungs, and the heart to adjust more quickly to increasingly difficult exercise.
+
+The researchers hope the findings could eventually lead to new ways to help older adults stay active. The work may also benefit athletes looking to improve performance and recovery.
+
+"This study opens the door for understanding how we can get more out of exercise," says Betley. "If we can shorten the timeline and help people see benefits sooner, it may encourage them to keep exercising."
+
+SUMMARY
+Your brain keeps firing after exercise, and this post-workout neural activity may be critical for improving endurance.
