@@ -1,0 +1,20 @@
+Try this in your head: 1,506,789 times 9,809 times 5.56 times 0.
+
+You do not need a calculator. It is a zero.
+
+That line of school arithmetic is a mental model. In a multiplicative system, one zero makes every number in front of it irrelevant. Hard work, talent, and good fortune can still come to nothing if a weak link sits in the chain.
+
+Engineers learn a version of this early. A system is no stronger than its weakest component. You can understand the rest of the machine in detail and still fail, because the weak part is inside the system. People are often that part. Until the unreliable piece is handled, polishing the others does not change the product.
+
+An additive system does not work that way. Change the signs: 1,506,789 plus 9,809 plus 5.56 plus 0. You still have 1,516,603.56, a large number. Think of a long family dinner. Turkey, whipped potatoes, stuffing, cranberry sauce, people around a table. Burn the potatoes until they are inedible and you have a problem. The meal still happens. Someone arrives with a pie and the evening gets a little better, without rewriting the night. Take parts away or add new ones and the dinner moves from good to great, or the other way. It does not flip from feast to nothing. Additive and multiplicative systems react differently when components appear or vanish.
+
+Most businesses live in multiplicative systems and behave as if they lived in additive ones. They stack one feature on another and leave customer service as a hole. You try the product once, get ignored, and do not come back. That is a company adding numbers beside a zero instead of resolving the zero in the middle of the equation.
+
+Money works the same way. General Motors, founded in 1908 by William Durant and C.S. Mott, came to hold about half of the American car market through a long run of invention and management. For years it was the dominant firm others wanted to copy. A century later, no American carmaker produced more automobiles. In 2008 the original shareholders were left with zero. Years of financial mismanagement put the company into bankruptcy. Generations of leadership did not matter. In a multiplicative collapse, all of that becomes naught.
+
+The same math shows up in a smaller room. A young employee feels stuck. The resume, the background, and the experience are in a row. They treat other people as stepping stones. That is a zero that can negate the big numbers preceding it. The rest of the list stops mattering.
+
+The useful question is not how to add more. It is whether you are in an additive system or a multiplicative one, and which components need absolute reliability for the system to work. That distinction is a "must be true" conclusion, and it belongs with the larger habit of systems thinking. Find the zero first. Until it is gone, extra effort is decoration.
+
+SUMMARY
+In a multiplicative system, one weak link can zero out everything else, so find and fix that zero before piling on more effort.
