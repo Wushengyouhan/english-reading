@@ -1,0 +1,30 @@
+People who believe more strongly in free will tend to feel better in their everyday lives, and experimentally encouraging these beliefs may increase positive feelings, according to research published in Social Psychological & Personality Science.
+
+Belief in free will refers to the conviction that people can freely choose how to act and are therefore responsible for their decisions. Though whether free will actually exists remains debated among philosophers and scientists, psychologists have increasingly studied whether this belief itself shapes how people think and behave.
+
+Previous research has linked stronger free will beliefs with judgments of intentionality and responsibility, punishment decisions, and prosocial behavior, as well as greater well-being and life satisfaction. However, these broad evaluations do not reveal how people actually feel moment to moment in daily life.
+
+Positive affect, such as happiness and joy, is an important aspect of well-being and has been linked with health, relationships, and success. Kathi Diel and colleagues therefore examined whether believing in free will is associated with positive feelings in daily life, and whether changing these beliefs can influence how people feel.
+
+Studies 1 and 2 involved secondary analyses of previously collected experience-sampling datasets. Study 1 drew on a broader study of social comparison in everyday life. The final sample included 429 adults living in Germany, recruited through research panels, social media, and flyers at the University of Cologne.
+
+Participants completed the 15-item Free Will Inventory, which assessed belief in free will, determinism, and dualism on seven-point scales, along with self-control, moral identity, religious beliefs, political orientation, and demographics. They then completed six days of mobile assessments, receiving five prompts per day between 10 a.m. and 10 p.m. and indicating at each prompt whether they currently felt "good" or "bad." In total, participants provided 9,229 reports of their momentary affect.
+
+Study 2 drew on a separate pre-existing dataset from a larger project examining daily well-being during the UEFA EURO 2024 football tournament. The final sample included 952 participants from England, Germany, Italy, the Netherlands, and Poland, who provided 3,627 daily assessments. At intake, participants rated their belief in free will on a seven-point scale and reported demographic and political information. After each match played by their national team, they rated how happy and satisfied with life they felt that day, also on seven-point scales.
+
+Study 3 was a new, preregistered experiment involving 1,053 English-speaking adults recruited through Prolific. Participants were randomly assigned to read a passage presenting scientific evidence either supporting or challenging free will, selected three statements consistent with that viewpoint, and described a personal experience related to each. After each description, they rated how they felt from 1, "extremely bad," to 7, "extremely good," before completing a manipulation check.
+
+In Study 1, stronger belief in free will was associated with a greater likelihood of feeling good in everyday life. This relationship held even after accounting for beliefs in determinism and dualism, along with the other measured covariates. In the most comprehensive model, each one-point increase in free will belief corresponded to a 15% increase in the odds of reporting positive affect. An exploratory finding suggested that the association might weaken at extremely high levels of free will belief.
+
+Study 2 replicated the central finding across five European countries: people with stronger free will beliefs reported greater daily happiness, even after accounting for demographic factors and both their general and day-to-day life satisfaction. However, the possible weakening of the relationship at very high levels of free will belief found in Study 1 did not replicate.
+
+Study 3 provided experimental evidence that adopting a free-will perspective could influence affect. Participants in the pro-free-will condition clearly interpreted the material as more supportive of free will, confirming the manipulation worked. They also reported substantially more positive feelings about their personal experiences than those in the anti-free-will condition, averaging 5.20 versus 3.25 on the seven-point affect scale (d = 1.77).
+
+The experimental findings complement the first two studies by suggesting that the association is not solely because happier people happen to believe more strongly in free will; encouraging a stronger free-will perspective itself produced more positive affect.
+
+Of note, the first two studies were correlational and therefore could not determine whether stronger free will beliefs actually caused better everyday moods; however, Study 3 provided experimental evidence supporting a causal effect.
+
+Together, the findings suggest that seeing oneself as capable of freely choosing and taking responsibility for one's actions may be an important psychological resource for experiencing more positive feelings in everyday life, beyond overall life satisfaction.
+
+SUMMARY
+Believing in free will is linked to more positive feelings in daily life, and experimentally encouraging that belief can lift mood in the moment.
